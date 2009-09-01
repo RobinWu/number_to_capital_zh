@@ -2,6 +2,11 @@ NumberToChineseAmountInWordsHelper
 ==================================
 
 数字转成中文大写金额
+number to chinese amount in words helper
+
+Install
+./script/plugin install git://github.com/RobinWu/number_to_chinese_amount_in_words_helper.git
+
 
 Example
 =======
